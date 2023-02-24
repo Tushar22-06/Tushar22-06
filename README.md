@@ -2,21 +2,21 @@
 <p align="center">
  <img src="https://github.com/Tushar22-06/gifs/blob/main/result.gif" alt="HEY ✌️, I'm Tushar Anand">
   
-  <h1 align="center">Nice to have you here <3</h1>
+  <h1 align="center">ℕ𝕚𝕔𝕖 𝕥𝕠 𝕙𝕒𝕧𝕖 𝕪𝕠𝕦 𝕙𝕖𝕣𝕖 <𝟛</h1>
 </p>
 </p>
 
-- 🔭 I’m currently working on a project
-- 🌱 I’m currently learning App Development
-- 👯 I’m looking to collaborate on New project & Ideas
-- 💬 Ask me about How to Build thing
-- 📫 How to reach me: Just Ping me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I Love to code with a Cup Of Coffee
+- 🔭 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 𝓪 𝓹𝓻𝓸𝓳𝓮𝓬𝓽
+- 🌱 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓐𝓹𝓹 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽
+- 👯 𝓘’𝓶 𝓵𝓸𝓸𝓴𝓲𝓷𝓰 𝓽𝓸 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 𝓸𝓷 𝓝𝓮𝔀 𝓹𝓻𝓸𝓳𝓮𝓬𝓽 & 𝓘𝓭𝓮𝓪𝓼
+- 💬 𝓐𝓼𝓴 𝓶𝓮 𝓪𝓫𝓸𝓾𝓽 𝓗𝓸𝔀 𝓽𝓸 𝓑𝓾𝓲𝓵𝓭 𝓽𝓱𝓲𝓷𝓰
+- 📫 𝓗𝓸𝔀 𝓽𝓸 𝓻𝓮𝓪𝓬𝓱 𝓶𝓮: 𝓙𝓾𝓼𝓽 𝓟𝓲𝓷𝓰 𝓶𝓮
+- 😄 𝓟𝓻𝓸𝓷𝓸𝓾𝓷𝓼: ...
+- ⚡ 𝓕𝓾𝓷 𝓯𝓪𝓬𝓽: 𝓘 𝓛𝓸𝓿𝓮 𝓽𝓸 𝓬𝓸𝓭𝓮 𝔀𝓲𝓽𝓱 𝓪 𝓒𝓾𝓹 𝓞𝓯 𝓒𝓸𝓯𝓯𝓮𝓮
 
 
 <p align="center"> 
-  Visitor Count<br>
+ 𝕍𝕚𝕤𝕚𝕥𝕠𝕣 ℂ𝕠𝕦𝕟𝕥<br>
 <img src="https://profile-counter.glitch.me/Tushar22-06/count.svg" />
 </p>
 
