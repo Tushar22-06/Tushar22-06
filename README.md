@@ -1,4 +1,8 @@
 <h1 align="center">HEY ✌️, I'm Tushar Anand</h1>
+<p align="center">
+  ![result](https://user-images.githubusercontent.com/97390564/221275054-1594cd44-9ffb-4c1f-8b0f-cc20fac78dc2.gif)
+
+</p>
 
 - 🔭 I’m currently working on a project
 - 🌱 I’m currently learning App Development
@@ -27,8 +31,12 @@
 </picture>
 <hr>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/97390564/221216581-5b3ff713-8187-4490-af69-575b9ce713c2.gif" />
+  <img src="https://user-images.githubusercontent.com/7326800/169659102-a2a08918-f296-4c9e-8182-625598c9ea35.png" alt="coding" width="100%" />
 </p>
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -41,8 +49,11 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="java-horizontal.svg" alt="Java" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
+  
+  <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/amruthpillai"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amruthpillai" /></a></p><br><br>
 
 
