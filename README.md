@@ -1,4 +1,4 @@
-### Hi there Tushar Anand👋
+<h1 align="center">HEY ✌️, I'm Tushar Anand</h1>
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning App Development
