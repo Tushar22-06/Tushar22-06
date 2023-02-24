@@ -1,7 +1,9 @@
-<h1 align="center">HEY ✌️, I'm Tushar Anand</h1>
-<p align="center">
-  ![result](https://user-images.githubusercontent.com/97390564/221275054-1594cd44-9ffb-4c1f-8b0f-cc20fac78dc2.gif)
 
+<p align="center">
+ <img src="https://github.com/Tushar22-06/gifs/blob/main/result.gif" alt="HEY ✌️, I'm Tushar Anand">
+  
+  <h1 align="center">Nice to have you here <3</h1>
+</p>
 </p>
 
 - 🔭 I’m currently working on a project
@@ -41,7 +43,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rumanharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TusharAnand" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TusharAnand" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tusharanand22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TusharAnand" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nutzing_fork/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="TusharAnand" height="30" width="40" /></a>
 
