@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="https://github.com/Tushar22-06/gifs/blob/main/Final%20Header.mp4" alt="HEY ✌️, I'm Tushar Anand">
+ <img src="https://github.com/Tushar22-06/gifs/blob/main/FinalHeader-ezgif.com-video-to-gif-converter.gif" alt="HEY ✌️, I'm Tushar Anand">
   
   <h1 align="center">ℕ𝕚𝕔𝕖 𝕥𝕠 𝕙𝕒𝕧𝕖 𝕪𝕠𝕦 𝕙𝕖𝕣𝕖 <𝟛</h1>
 </p>
